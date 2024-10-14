@@ -1,3 +1,10 @@
+# Dio:
+Resposta ao desafio Criando uma calculadora com React do Bootcamp XP Inc. - Full Stack Developer
+
+
+## About this project:
+This is a Bootcamp Assignment. A simple calculator with basic functions. It's suggested that a mimic of the one in the video class is enough. This one is missing small functions/tweaks - chain operations might turn into trouble, the fact that I only got it to work by always displaying 0 when pressing operation buttons, etc. They might be adjusted in the future. Everything depends on wich tech I'll be getting as a main - VueJS is a strong candidate.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
